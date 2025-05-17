@@ -6,8 +6,9 @@
 
 ### Installation
 1. Create virtual environment:
+'''
 python -m venv venv
-
+'''
 2. Activate environment
 # Linux/MacOS
 source venv/bin/activate
